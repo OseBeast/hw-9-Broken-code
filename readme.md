@@ -1,1 +1,1 @@
-Passes
+def Passes
